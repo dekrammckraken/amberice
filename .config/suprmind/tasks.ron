@@ -1,0 +1,34 @@
+[
+    (
+        id: "2cbd7eae-3342-4dc6-8ee9-9b456f472d5d",
+        name: "suprfocus",
+        description: "Meditation countdown in terminal",
+        done: false,
+        completed_date: None,
+        selected: false,
+    ),
+    (
+        id: "c4440fce-b96d-420b-a273-ad5d04bbc935",
+        name: "suprsel",
+        description: "Multipurpose menu",
+        done: false,
+        completed_date: None,
+        selected: false,
+    ),
+    (
+        id: "e787a531-dbf6-4438-a140-a740ac1db61b",
+        name: "suprwall",
+        description: "Wallpaper manager",
+        done: false,
+        completed_date: None,
+        selected: false,
+    ),
+    (
+        id: "12a0f7bb-866a-4f30-b8b8-685b8fa7beba",
+        name: "suprmind",
+        description: "Mindblowing",
+        done: true,
+        completed_date: Some("2025-07-12T15:23:48.091743726Z"),
+        selected: true,
+    ),
+]

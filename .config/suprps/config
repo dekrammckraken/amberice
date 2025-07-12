@@ -1,0 +1,4 @@
+dev_block = "/dev/input/event23"
+launcher = "/usr/bin/steam"
+lounge = "-bigpicture"
+mac = "14:3A:9A:F1:FA:17"
