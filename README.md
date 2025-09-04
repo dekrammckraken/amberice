@@ -1,4 +1,4 @@
-`Ceral` was inspired by `https://github.com/morhetz/gruvbox`, and these settings are intended as personal preferences.  
+`Amberice` was inspired by `https://github.com/morhetz/gruvbox`, and these settings are intended as personal preferences.  
 They are not recommended for copy-pasting if you do not understand their meaning.  
 
 **This is still a work in progress.**
